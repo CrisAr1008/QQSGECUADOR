@@ -1,0 +1,576 @@
+[{
+    "categoria": "",
+    "pregunta": "¿Qué tipo de dato sería util para visualizar una línea de visibilidad entre una ventana de un cuarto a un lugar emblemático?",
+    "respuesta": "Dato 3D",
+    "incorrecta1": "Datos estáticos",
+    "incorrecta2": "Datos en tiempo real",
+    "incorrecta3": "Datos de imágenes",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Tiene una capa de puntos que muestran impactos de rayos de una tormenta. ¿Qué tipo de simbolización debería usar para mostrar areas que tienen la mayor densidad de rayos?",
+    "respuesta": "Heat Map",
+    "incorrecta1": "Valores Unicos",
+    "incorrecta2": "Cantidad",
+    "incorrecta3": "Símbolo Unico",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Ha creado un mapa de instalaciones de salud. Le gustaría limitar la información que se muestra cuando hace clic en cada punto. ¿Qué opción puede usar para hacer este cambio?",
+    "respuesta": "Configurar la ventana emergente",
+    "incorrecta1": "Crear etiquetas",
+    "incorrecta2": "Renombrar",
+    "incorrecta3": "Establecer la visibilidad de rangos",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Qué tipo de análisis espacial puede responder la pregunta ¿qué elementos estan completamente dentro de otros elementos?",
+    "respuesta": "Superposición",
+    "incorrecta1": "Estadistico",
+    "incorrecta2": "Temporal",
+    "incorrecta3": "Proximidad",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "En ModelBuilder, el ovalo azul representa",
+    "respuesta": "Dato de entrada",
+    "incorrecta1": "Dato de Salida",
+    "incorrecta2": "Herramienta de geoproceso",
+    "incorrecta3": "Variables",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "El método de clasificación Quantile es mejor para datos",
+    "respuesta": "distribuidos linearmente",
+    "incorrecta1": "Rangos de datos familiar",
+    "incorrecta2": "que tienen espacios en el histograma",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Cuál de los siguientes NO es un paso de la geocodificación",
+    "respuesta": "geocodificar puntos xy",
+    "incorrecta1": "crear un localizador",
+    "incorrecta2": "obtener datos de referencia",
+    "incorrecta3": "editar y re empatar direcciones",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "La herramienta Snapping es crucial para: ",
+    "respuesta": "modelar conectividad de lineas",
+    "incorrecta1": "Dibujar polígonos",
+    "incorrecta2": "Editar lineas",
+    "incorrecta3": "Actualizar atributos",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "La función de la herramienta Merge es:",
+    "respuesta": "Fusionar dos polígonos",
+    "incorrecta1": "Adjuntar dos polígonos de similar atributo",
+    "incorrecta2": "Cortar un polígono por la mitad",
+    "incorrecta3": "Ninguno de los anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "El resultado de la herramienta Buffer es: ",
+    "respuesta": "Una zona al rededor del elemento a una distancia especifica",
+    "incorrecta1": "una capa cortada a los elementos que caen en otra capa",
+    "incorrecta2": "una clase de entidad que une dos capas de entrada",
+    "incorrecta3": "todas las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Una tarea puede ser usada para",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Compartir pasos que pueden seguir para una trabajo",
+    "incorrecta2": "Enseñar a otro usuario como realizar un proceso",
+    "incorrecta3": "Compartir un flujo de trabajo",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Cuáles son algunas razones para crear una capa de tesela vectorial",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Aparecen mas rapido que las teselas raster",
+    "incorrecta2": "Pueden ser usadas en mapas en linea",
+    "incorrecta3": "Se pueden construir y actualizar rápidamente",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "A cuál de los siguientes las funciones raster NO pueden ser aplicados",
+    "respuesta": "Feature layer",
+    "incorrecta1": "Ninguna de las anteriores",
+    "incorrecta2": "Capas de servicio imagen",
+    "incorrecta3": "Set mosaico",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Para realizar un análisis de idoneidad con rasters es importante primero definir",
+    "respuesta": "Criterio",
+    "incorrecta1": "Set de datos",
+    "incorrecta2": "Publico",
+    "incorrecta3": "Ninguno de los anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "La diferencia entre la distancia Euclidean y la Network es que",
+    "respuesta": "Euclidean es linea recta, network considera tiempo de viaje en rutas",
+    "incorrecta1": "Network es linea recta, Euclidean considera mejores rutas",
+    "incorrecta2": "Euclidean considera trafico, network no",
+    "incorrecta3": "Todas las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Tiene una capa de ríos (línea), necesita que cada río que pase por una zona protegida (polígonos) adquiera sus atributos, usa:",
+    "respuesta": "Identity",
+    "incorrecta1": "Intersect",
+    "incorrecta2": "Erase",
+    "incorrecta3": "Summarize within",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Tiene una capa de zonas de protección, necesita una tabla con la suma de todas las areas de bosques que caen en cada zona, usa:",
+    "respuesta": "Tabulate Area",
+    "incorrecta1": "Erase",
+    "incorrecta2": "Identity",
+    "incorrecta3": "IntersectIntersect",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Cuál de las siguientes NO es una interpolación deterministica",
+    "respuesta": "Kriging",
+    "incorrecta1": "Spline",
+    "incorrecta2": "IDW",
+    "incorrecta3": "Natural Neighbor",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "En la regresión, la variable que representa lo que se está siendo predecido es",
+    "respuesta": "Variable Dependiente",
+    "incorrecta1": "Variable Indenpendiente",
+    "incorrecta2": "Coeficientes",
+    "incorrecta3": "Residuales",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Desde donde debe publicar un servicio de geoproceso",
+    "respuesta": "Ventana de resultados",
+    "incorrecta1": "Toolbox",
+    "incorrecta2": "Variable Indenpendiente",
+    "incorrecta3": "Ventana Catalog",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el proceso de estirar verticalmente una forma 2D plana para mostrar las entidades en 3D ?",
+    "respuesta": "Extrusión",
+    "incorrecta1": "Elevación",
+    "incorrecta2": "Multiparche",
+    "incorrecta3": "Obstrucción",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Usted quiere crear un mapa al que solo ciertas personas, no el público general, pueden acceder. ¿Qué opción de compartir eligiría?",
+    "respuesta": "Crear un grupo",
+    "incorrecta1": "A Mi Contenido",
+    "incorrecta2": "A la organización",
+    "incorrecta3": "Compartir a todos",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Si comparte una capa como paquete de capa a ArcGIS Online, usted podrá:",
+    "respuesta": "Descargar la capa y usarla en su escritorio",
+    "incorrecta1": "Crear un mapa desde la web",
+    "incorrecta2": "Abrir en el Visor de Mapas",
+    "incorrecta3": "Todas las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿En un mapa web, qué tipo de contenido se puede agregar?",
+    "respuesta": "Capas",
+    "incorrecta1": "Aplicaciones",
+    "incorrecta2": "Grupos",
+    "incorrecta3": "Escenas ",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuáles son las dos categorías de capas web?",
+    "respuesta": "Capas operacionales y mapas base ",
+    "incorrecta1": "Capas operacionales y de referencia ",
+    "incorrecta2": "Capas interactivas y mapas base ",
+    "incorrecta3": "Capas interactivas y de referencia",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la secuencia correcta para crear una aplicación web en ArcGIS Online?",
+    "respuesta": "Utilizar las capas para crear un mapa, utilizar un mapa para crear una aplicación ",
+    "incorrecta1": "Utilizar un mapa para crear la aplicación, utilizar las capas para crear un mapa",
+    "incorrecta2": "Seleccionar las capas, compartir una aplicación, crear un mapa con capas ",
+    "incorrecta3": "Seleccionar un mapa, crear las capas, compartir las capas como una aplicación ",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Qué roles de la organización de ArcGIS Online tienen los privilegios para crear y compartir mapas web y aplicaciones?",
+    "respuesta": "Usuario, Publicador, o Administrador ",
+    "incorrecta1": "Editor de datos, Usuario, o Publicador",
+    "incorrecta2": "Visualizador, Editor de datos, o Publicador",
+    "incorrecta3": "Administrador, Editor de datos, o Usuario ",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Encontró una capa en la busqueda de ArcGIS Online. Pero desea saber más información de la capa como a que escala fue recogida o el autor, etc. Desde dónde puede acceder a esta información",
+    "respuesta": "Detalle del elemento",
+    "incorrecta1": "Detalle del mapa",
+    "incorrecta2": "Mi Contenido",
+    "incorrecta3": "Todas las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Está creando una app web. Quiere agregar una herramienta a la app que le permita a los usuarios medir distancias en el mapa. Esta herramienta seria un ejemplo de que componente de la app web",
+    "respuesta": "Widget",
+    "incorrecta1": "Título",
+    "incorrecta2": "Mapa web ",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Cuál de los siguientes roles puede subir una capa desde el escritorio al portal",
+    "respuesta": "Publisher",
+    "incorrecta1": "Creator",
+    "incorrecta2": "Data Editor",
+    "incorrecta3": "Advance",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Cuál de los siguientes portales puede ser configurado en su propia infraestructura",
+    "respuesta": "Portal for ArcGIS",
+    "incorrecta1": "ArcGIS Online",
+    "incorrecta2": "ArcGIS Hub",
+    "incorrecta3": "Sites",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Cuando comparte un map image layer, ¿cuál de estas opciones NO puede realizar en el portal Enterprise?",
+    "respuesta": "Edicion",
+    "incorrecta1": "Visualizacion",
+    "incorrecta2": "Consulta de vectores",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Qué método de compartir le da a otros acceso directo a sus datos",
+    "respuesta": "Referenciar datos registrados",
+    "incorrecta1": "Copiar datos a un servidor josteado",
+    "incorrecta2": "Copiar features services al data store",
+    "incorrecta3": "Copiar datos al ArcGIS Server",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Cuál de las siguientes NO es una característica del portal Enterprise",
+    "respuesta": "Consume creditos",
+    "incorrecta1": "Requiere administracion de componentes",
+    "incorrecta2": "Instalado en infraestructura propia",
+    "incorrecta3": "Publicar imagenes con funciones",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Qué herramienta automática de ArcGIS Enterprise instala todos los componentes en una máquina?",
+    "respuesta": "ArcGIS Enterprise Builder",
+    "incorrecta1": "Scripts Python",
+    "incorrecta2": "ArcGIS Enterprise Cloud Builder para Microsoft Azure",
+    "incorrecta3": "Plantillas AWS Cloud Formation",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el puerto HTTPS predeterminado que usa Portal for ArcGIS?",
+    "respuesta": "7443",
+    "incorrecta1": "8443",
+    "incorrecta2": "7080",
+    "incorrecta3": "2443",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "La cuenta de usuario de Portal for ArcGIS que se especifica durante la instalación ya no es valida. ¿Como debemos abordar ese problema?",
+    "respuesta": "Ejecute la utilidad 'configureserviceaccount' para especificar una cuenta válida",
+    "incorrecta1": "Desinstalar y reinstalar Portal for ArcGIS usando una cuenta válida",
+    "incorrecta2": "Inicie sesión en el Directorio de administrador del portal y actualice la cuenta",
+    "incorrecta3": "Cree una cuenta válida y concédale acceso al directorio de instalación de Portal for ArcGIS",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": " ¿Las extensiones de ArcGIS Server están asociadas a la expansión de las capacidades de qué licencia de rol de servidor?",
+    "respuesta": "Servidor SIG",
+    "incorrecta1": "Servidor de Imágenes",
+    "incorrecta2": "Servidor de GeoEvent",
+    "incorrecta3": "Servidor de GeoAnalytics",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Qué tipo de capa o servicio recomendaría que sus usuarios elijan para compartir un gran conjunto de datos poligonales complejos que no cambian con mucha frecuencia?",
+    "respuesta": "Vector Tile",
+    "incorrecta1": "Imagery",
+    "incorrecta2": "Map Feature con Feature Access habilitado",
+    "incorrecta3": "Hosted Feature",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "En términos generales, ¿qué componente de ArcGIS Enterprise debe actualizarse en último lugar?",
+    "respuesta": "ArcGIS Data Store",
+    "incorrecta1": "Portal for ArcGIS",
+    "incorrecta2": "ArcGIS Web Adaptor (Portal)",
+    "incorrecta3": "ArcGIS Server (Hosting)",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Cuál de las siguientes NO es cierto sobre la geodatabase",
+    "respuesta": "Las gdbs son accedidas directamente en la web",
+    "incorrecta1": "Las gdbs son el formato nativo de datos en ArcGIS",
+    "incorrecta2": "Las gdbs pueden ser usadas para reforzar reglas sobre como ingresar datos",
+    "incorrecta3": "Las gdbs permiten multiples usuarios editar los datos al mismo tiempo",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál de los siguientes métodos puede usar para traer datos existentes en la geodatabase?",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Copiar y pegar desde una gdb a otra",
+    "incorrecta2": "Importarlo en la gdb",
+    "incorrecta3": "Exportarlo desde otra ubicación",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Cuál de las siguientes NO es cierto sobre la geodatabase",
+    "respuesta": "Las gdbs son accedidas directamente en la web",
+    "incorrecta1": "Las gdbs son el formato nativo de datos en ArcGIS",
+    "incorrecta2": "Las gdbs pueden ser usadas para reforzar reglas sobre como ingresar datos",
+    "incorrecta3": "Las gdbs permiten multiples usuarios editar los datos al mismo tiempo",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuáles de las siguientes respuestas son tipos válidos de relaciones de tabla, conocidas como cardinalidad?",
+    "respuesta": "Uno a muchos y Uno a uno",
+    "incorrecta1": "Ninguno a muchos",
+    "incorrecta2": "Uno a muchos",
+    "incorrecta3": "Uno a uno",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "En una BD Versionada, cual es el usuario responsable de crear y trabajar sobre una version?",
+    "respuesta": "Data owner",
+    "incorrecta1": "Editor",
+    "incorrecta2": "Administrador Geodatabase",
+    "incorrecta3": "Cualquiera de los anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Cual No es un motor de bases de datos soportado por ArcGIS",
+    "respuesta": "Access",
+    "incorrecta1": "PostgreSQL",
+    "incorrecta2": "SQL",
+    "incorrecta3": "Oracle",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Cual de los siguientes no es un tipo de GeoDatabase",
+    "respuesta": "Pro GeoDatabase",
+    "incorrecta1": "Workgroup GeoDatabase",
+    "incorrecta2": "File GeoDatabase",
+    "incorrecta3": "Enterprise GeoDatabase",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Cual de las siguientes no es un tipo de replicación de Base de Datos?",
+    "respuesta": "Three-Way",
+    "incorrecta1": "One-Way",
+    "incorrecta2": "Two-Way",
+    "incorrecta3": "Checkout Checkin",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "En Python, la librería que usa para llamar las herramientas de ArcGIS se llama:",
+    "respuesta": "Arcpy",
+    "incorrecta1": "Numpy",
+    "incorrecta2": "Pandas",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Haciendo uso de JavaScript necesita borrar registros de una tabla. Qué tipo de cursor va a usar:",
+    "respuesta": "Update Cursor",
+    "incorrecta1": "Remove Cursor",
+    "incorrecta2": "Delete Cursor",
+    "incorrecta3": "Search Cursor",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Necesita acceder a las propiedades de un raster y usar esas propiedades en un script. ¿Cómo accede a las propiedades en Python?",
+    "respuesta": "Usar la función Arcpy Describe",
+    "incorrecta1": "Usar la función Arcpy Properties",
+    "incorrecta2": "Usar la función Arcpy ListProperties",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Está escribiendo un script en Pycharm. ¿Cuál de las siguientes establecen el espacio de trabajo correctamente?",
+    "respuesta": "arcpy.env.workspace = 'C:\\Forest\\SanJuan.gdb'",
+    "incorrecta1": "env.arcpy.Workspace = 'C:\\Forest\\SanJuan.gdb'",
+    "incorrecta2": "arcpy.Workspace = 'C:\\Forest\\SanJuan.gdb'",
+    "incorrecta3": "env.Workspace = 'C:\\Forest\\SanJuan.gdb'",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Qué propiedad del objeto Describe nos da como resultado 'Polyline'",
+    "respuesta": "shapeType",
+    "incorrecta1": "featureType",
+    "incorrecta2": "shapeFieldName",
+    "incorrecta3": "hasZ",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Para poder compartir un script tool es indispensable primero:",
+    "respuesta": "ejecutar la herramienta exitosamente",
+    "incorrecta1": "darle validaciones",
+    "incorrecta2": "ejecutar la herramienta sin importar que falle",
+    "incorrecta3": "copiarla a la gdb",
+    "imagen": "",
+    "objectFit": "cover"
+}
+
+
+]

@@ -1,0 +1,426 @@
+[{
+    "categoria": "",
+    "pregunta": "¿Cuál es el nombre del río más largo del mundo?",
+    "respuesta": "Río Amazonas",
+    "incorrecta1": "Río Nilo",
+    "incorrecta2": "Río Danubio",
+    "incorrecta3": "Río Jordán",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el océano más grande del mundo?",
+    "respuesta": "Océano Pacífico",
+    "incorrecta1": "Océano Índico",
+    "incorrecta2": "Océano Atlántico",
+    "incorrecta3": "Océano Ártico",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el país más grande del mundo?",
+    "respuesta": "Rusia",
+    "incorrecta1": "China",
+    "incorrecta2": "India",
+    "incorrecta3": "Estados Unidos",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el país que tiene forma de bota?",
+    "respuesta": "Italia",
+    "incorrecta1": "Honduras",
+    "incorrecta2": "España",
+    "incorrecta3": "Chile",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el país más poblado de la tierra?",
+    "respuesta": "China",
+    "incorrecta1": "Rusia",
+    "incorrecta2": "Estados Unidos",
+    "incorrecta3": "India",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la ciudad de los rascacielos?",
+    "respuesta": "New York",
+    "incorrecta1": "Tokio",
+    "incorrecta2": "Hong Kong",
+    "incorrecta3": "Bogotá",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿En qué país se encuentra ubicada la Casa Rosada?",
+    "respuesta": "Argentina",
+    "incorrecta1": "Chile",
+    "incorrecta2": "Mexico",
+    "incorrecta3": "Francia",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la capital de Nicaragua?",
+    "respuesta": "Managua",
+    "incorrecta1": "Santiago",
+    "incorrecta2": "Brasilia",
+    "incorrecta3": "La Ceiba",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿En qué continente se encuentra Surinam?",
+    "respuesta": "América del Sur",
+    "incorrecta1": "África",
+    "incorrecta2": "Oceanía",
+    "incorrecta3": "Ninguno de los anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la nación más pequeña del mundo?",
+    "respuesta": "El Vaticano",
+    "incorrecta1": "Mónaco",
+    "incorrecta2": "Andorra",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la única ciudad que está en dos continentes distintos?",
+    "respuesta": "Estambul",
+    "incorrecta1": "Moscú",
+    "incorrecta2": "Berlín",
+    "incorrecta3": "Kazán",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la ciudad italiana conocida como «la novia del mar»?",
+    "respuesta": "Venecia",
+    "incorrecta1": "Florencia",
+    "incorrecta2": "Roma",
+    "incorrecta3": "Milán",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la cascada más alta del mundo?",
+    "respuesta": "El Salto del Ángel",
+    "incorrecta1": "Cataratas de Iguazú",
+    "incorrecta2": "Cataratas del Niáraga",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la capital de Pakistán?",
+    "respuesta": "Islamabad",
+    "incorrecta1": "Bagdag",
+    "incorrecta2": "Marrakech",
+    "incorrecta3": "Bangladesh",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la segunda montaña más alta del mundo?",
+    "respuesta": "K2",
+    "incorrecta1": "K1",
+    "incorrecta2": "K3",
+    "incorrecta3": "K4",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuándo terminó la II Guerra Mundial?",
+    "respuesta": "1945",
+    "incorrecta1": "1947",
+    "incorrecta2": "1943",
+    "incorrecta3": "1948",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿En qué año llegó Cristobal Colón a América?",
+    "respuesta": "1492",
+    "incorrecta1": "1429",
+    "incorrecta2": "1592",
+    "incorrecta3": "1529",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Quién es el padre del psicoanálisis?",
+    "respuesta": "Sigmund Freud",
+    "incorrecta1": "Carl Gustav Jung",
+    "incorrecta2": "Skinner",
+    "incorrecta3": "Ernest Jones",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Quién era el general de los Nazis en la Segunda Guerra Mundial?",
+    "respuesta": "Adolf Hitler",
+    "incorrecta1": "Benito Mussolini",
+    "incorrecta2": "Heinrich Himmler",
+    "incorrecta3": "Lósif Stalin",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el libro sagrado de los musulmanes?",
+    "respuesta": "El Corán",
+    "incorrecta1": "El Talmud",
+    "incorrecta2": "La Biblia",
+    "incorrecta3": "El antiguo testamento",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿En qué país se usó la primera bomba atómica?",
+    "respuesta": "Japón",
+    "incorrecta1": "Estados Unidos",
+    "incorrecta2": "Rusia",
+    "incorrecta3": "Alemania",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el idioma más antiguo que pervive en Europa?",
+    "respuesta": "Vasco",
+    "incorrecta1": "Inglés",
+    "incorrecta2": "Francés",
+    "incorrecta3": "Español",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál fue el primer hombre en ir a la luna?",
+    "respuesta": "Neil Armstrong",
+    "incorrecta1": "Louis Armstrong",
+    "incorrecta2": "Jeff Armstrong",
+    "incorrecta3": "Michael Armstrong",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cómo se llama la primera mujer que viajó al espacio?",
+    "respuesta": "Valentina Tereshkova",
+    "incorrecta1": "Alexandra Tereshkova",
+    "incorrecta2": "Amanda Tereshkova",
+    "incorrecta3": "Natalia Tereshkova ",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿En qué guerra participó Juana de Arco?",
+    "respuesta": "Guerra de los 100 años",
+    "incorrecta1": "Guerra de la independencia francesa",
+    "incorrecta2": "Guerra Civil Española",
+    "incorrecta3": "Guerra fria",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿De qué año es la primera constitución española conocida como «La Pepa»?",
+    "respuesta": "1812",
+    "incorrecta1": "1835",
+    "incorrecta2": "1978",
+    "incorrecta3": "1956",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Quién fue el primer emperador romano?",
+    "respuesta": "César Augusto",
+    "incorrecta1": "Julio Cesar",
+    "incorrecta2": "Marco Aurelia",
+    "incorrecta3": "Julio Augusto",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿En qué isla murió Napoleón?",
+    "respuesta": "Santa Elena",
+    "incorrecta1": "Sicilia",
+    "incorrecta2": "Creta",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Qué año solo tuvo 355 días?",
+    "respuesta": "1582",
+    "incorrecta1": "1615",
+    "incorrecta2": "1823",
+    "incorrecta3": "1580",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la obra más importante de la literatura en español?",
+    "respuesta": "Don Quijote de la Mancha",
+    "incorrecta1": "Cien años de soledad",
+    "incorrecta2": "El Principito",
+    "incorrecta3": "Cien años de soledad",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Quién pintó el famoso cuadro La última cena?",
+    "respuesta": "Leonardo da Vinci",
+    "incorrecta1": "Velazquez",
+    "incorrecta2": "Rembrandt",
+    "incorrecta3": "Ninguno de los anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cómo se llama el Himno Nacional de Francia?",
+    "respuesta": "La Marsellesa",
+    "incorrecta1": "La solitaria",
+    "incorrecta2": "La Internacional",
+    "incorrecta3": "La Parisina",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿A qué se denomina séptimo arte?",
+    "respuesta": "Cine",
+    "incorrecta1": "Escultura",
+    "incorrecta2": "Pintura",
+    "incorrecta3": "Baile",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Qué es un melómano?",
+    "respuesta": "Un amante de la música",
+    "incorrecta1": "Un amante del cine",
+    "incorrecta2": "Un amabte de los cómics",
+    "incorrecta3": "Un amante de las peliculas de amor",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cómo se llama la estrofa poética que está conformada por 10 versos de 8 sílabas cada uno?",
+    "respuesta": "Décima espinela",
+    "incorrecta1": "Decasílabo",
+    "incorrecta2": "Decasílabo octogonal",
+    "incorrecta3": "Espinela",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuáles son las notas musicales?",
+    "respuesta": "Do, Re, Mi, Fa, Sol, La, Si",
+    "incorrecta1": "Do, Re, Mi, Sol, La, Si, Do",
+    "incorrecta2": "Do, Re, Mi",
+    "incorrecta3": "Do, Re, Fa, La, Si",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Quién escribió Cien años de soledad?",
+    "respuesta": "Gabriel García Márquez",
+    "incorrecta1": "Mario Vargas Llosa",
+    "incorrecta2": "Camilo José Cela",
+    "incorrecta3": "Armando Aguilar",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": " ¿Quién pintó La noche estrellada?",
+    "respuesta": "Vincent van Gogh",
+    "incorrecta1": "Rembrandt",
+    "incorrecta2": "Velazquez",
+    "incorrecta3": "Leonardo Da Vinci",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": " ¿Quién es denominado el Rey del Rock and Roll en Estados Unidos?",
+    "respuesta": "Elvis Presley",
+    "incorrecta1": "Michael Jackson",
+    "incorrecta2": "Bruce Springsteen",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el nombre de la artista mexicana conocida como «la Doña»?",
+    "respuesta": "María Félix",
+    "incorrecta1": "Paulina Rubio",
+    "incorrecta2": "Frida Kahlo",
+    "incorrecta3": "Sandra Bello",
+    "imagen": "",
+    "objectFit": "cover"
+}
+
+]

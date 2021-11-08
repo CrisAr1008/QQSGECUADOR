@@ -1,0 +1,478 @@
+[{
+    "categoria": "",
+    "pregunta": "¿En que ciudad se realiza la transmisión del evento? ",
+    "respuesta": "Redlands, California",
+    "incorrecta1": "Miamia, Florida",
+    "incorrecta2": "Los Angeles, California ",
+    "incorrecta3": "San Diego, California",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál empresa ganó el premio Making a difference award?",
+    "respuesta": "Nespresso",
+    "incorrecta1": "Juan Valdez Café",
+    "incorrecta2": "Coca Cola",
+    "incorrecta3": "Pepsico",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Qué organización ganó el premio President award?",
+    "respuesta": "Universidad de Michigan",
+    "incorrecta1": "Instituto Tecnológico de Massachusetts ",
+    "incorrecta2": "Universidad de Harvard",
+    "incorrecta3": "Univesidad de Chicago",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es nuevo producto de ArcGIS que permite un contenido de imágenes mejorado dentro de ArcGIS Online?",
+    "respuesta": "ArcGIS Image",
+    "incorrecta1": "ArcGIS Field Maps",
+    "incorrecta2": "ArcGIS Velocity",
+    "incorrecta3": "ArcGIS Storymaps",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la función de ArcGIS Velocity?",
+    "respuesta": "Permitir una integración de datos en tiempo real par la toma de decisiones",
+    "incorrecta1": "Permitir imáganes espaciales para un mejor entendimiento del terreno",
+    "incorrecta2": "Permitir análisis pasados de un mapa específico",
+    "incorrecta3": "Todas las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Qué programa de ArcGIS utiliza drones para generar las visualizaciones?",
+    "respuesta": "Site Scan for GIS",
+    "incorrecta1": "ArcGIS Velocity",
+    "incorrecta2": "ArcGIS Enterprise",
+    "incorrecta3": "ArcGIS Storymaps",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la función de ArcGIS survey 123?",
+    "respuesta": "Captura de datos basada en formularios",
+    "incorrecta1": "Utilización de drones para el levantamiento de terrenos",
+    "incorrecta2": "Contenido de imágenes que ayudan al entendimiento del terreno",
+    "incorrecta3": "Todas las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿ArcGIS Field Maps reune cuál/es aplicaciones de ArcGIS?",
+    "respuesta": "Survey 123 y ArcGIS Quick Capture",
+    "incorrecta1": "Survey 123",
+    "incorrecta2": "ArcGIS Quick Capture",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuáles son las funcionalidades de ARcGIS Field Maps? (Capacidades de edición)",
+    "respuesta": "Ninguna de las anteriores",
+    "incorrecta1": "Collector",
+    "incorrecta2": "Explore",
+    "incorrecta3": "Tracker",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cómo funciona ArcGIS Field Maps?",
+    "respuesta": "Recolección en tiempo real desde el campo",
+    "incorrecta1": "Recolección previo a la visita de campo",
+    "incorrecta2": "Recolección posterior a la visita de campo",
+    "incorrecta3": "Recolección de datos de campo en un tiempo determinado (días, meses, años)",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cual programa de ArcGIS crea historias inspiradoras e inmersivas combinando texto, mapas interactivos y otros contenidos multimedia?",
+    "respuesta": "ArcGIS Storymaps",
+    "incorrecta1": "ArcGIS Velocity",
+    "incorrecta2": "ARcGIS Field Maps",
+    "incorrecta3": "ArcGIS Image",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Qué programa de ArcGIS permite integrar Autodesk con ArcGIS para generar contenido más preciso?",
+    "respuesta": "ArcGIS GeoBIM",
+    "incorrecta1": "ArcGIS Velocity",
+    "incorrecta2": "ArcGIS Enterprise",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Qué aplicación se puede utilizar para recolectar datos en el campo?",
+    "respuesta": "ArcGIS Field Maps",
+    "incorrecta1": "ArcGIS Urban ",
+    "incorrecta2": "ArcGIS Indoors",
+    "incorrecta3": "ArcGIS Pro",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cómo se pueden visualizar dos capas sin utilizar transparencias?",
+    "respuesta": "Blending",
+    "incorrecta1": "Clipping",
+    "incorrecta2": "Buffer",
+    "incorrecta3": "Erasing",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿En cuál centro deportivo se está utlizando ArcGIS Velocity para mejorar el uso de recursos? ",
+    "respuesta": "Aspen",
+    "incorrecta1": "Summit Mountain",
+    "incorrecta2": "Vail",
+    "incorrecta3": "Telluride",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Con qué producto se puede hacer modelación en 3D? ",
+    "respuesta": "todas las anteriores",
+    "incorrecta1": "ArcGIS Urban ",
+    "incorrecta2": "ArcGIS City Engine",
+    "incorrecta3": "ArcGIS Pro",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Qué le puede agregar a un StoryMap? ",
+    "respuesta": "videos",
+    "incorrecta1": "mapas",
+    "incorrecta2": "imágenes",
+    "incorrecta3": "todas las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "La integración de GIS y BIM le permitirá crear mejores ",
+    "respuesta": "modelos 3D",
+    "incorrecta1": "bases de datos",
+    "incorrecta2": "mapas base",
+    "incorrecta3": "colaboraciones",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Para qué le sirven las colecciones en ArcGIS StoryMaps?",
+    "respuesta": "como portafolio de proyectos",
+    "incorrecta1": "para diseñar mapas",
+    "incorrecta2": "para crear mapas",
+    "incorrecta3": "para modificar mapas",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el número de esta Conferencia de Usuarios?",
+    "respuesta": "41",
+    "incorrecta1": "45",
+    "incorrecta2": "38",
+    "incorrecta3": "35",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el slogan o mensaje central de esta UC?",
+    "respuesta": "Creando un futuro sostenible ",
+    "incorrecta1": "Creando un futuro SIGnificativo",
+    "incorrecta2": "Los mapas son el futuro",
+    "incorrecta3": "Un mejor futuro con sostenibilidad",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál ciudad de Alemania aplico los SIG para mejorar sus servicios públicos?",
+    "respuesta": "Munich",
+    "incorrecta1": "Berlin",
+    "incorrecta2": "Düsseldorf",
+    "incorrecta3": "Colonia",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Quién es el presentador principal de la plenaria de hoy?",
+    "respuesta": "Jack Dangermond",
+    "incorrecta1": "Alan Barret",
+    "incorrecta2": "Brian Chesky",
+    "incorrecta3": "Laura Dangermond",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Qué organización colombiana ganó SAG AWARD 2021?",
+    "respuesta": "Agencia Nacional de Tierras",
+    "incorrecta1": "CORTOLIMA",
+    "incorrecta2": "Instituto Geográfico Agustín Codazzi ",
+    "incorrecta3": "Ministerio de ambiente ",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuáles son los tipos de sistemas fundamentales que soporta ArcGIS?",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "System of insight",
+    "incorrecta2": "System of Engagement",
+    "incorrecta3": "System of Record",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Quién es el ganador del Enterprise GIS Award? ",
+    "respuesta": "LOJIC",
+    "incorrecta1": "American Life League",
+    "incorrecta2": "Center for Applied Linguistics",
+    "incorrecta3": "The Good Food Institute ",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el nombre del autor mexicano del libro que menciona Jack en su presentación?",
+    "respuesta": "Mario Palma",
+    "incorrecta1": "Carlos Fuentes",
+    "incorrecta2": "Amado Nervo",
+    "incorrecta3": "José Emilio Pacheco",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál de estas metodologías NO integra el Geographical Approach? ",
+    "respuesta": "GeoMarketing",
+    "incorrecta1": "GeoAnalytics",
+    "incorrecta2": "GeoDesign",
+    "incorrecta3": "GeoCollaboration",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Cuál de las siguientes herramientas se destacó como una novedad de ArcGIS? ",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Imagery and Remote Sensing",
+    "incorrecta2": "Field Operations",
+    "incorrecta3": "Real-Time GIS ",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Qué herramienta NO hace parte de ArcGIS?",
+    "respuesta": "ArcGIS Timeline",
+    "incorrecta1": "ArcGIS Velocity",
+    "incorrecta2": "ArcGIS Urban",
+    "incorrecta3": "ArcGIS Dashboards",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Qué organización panameña ganó SAG AWARD 2021?",
+    "respuesta": "Ministerio de salud de Panamá",
+    "incorrecta1": "Canal de Panamá",
+    "incorrecta2": "IDAAN",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Qué organización ecuatoriana ganó SAG AWARD 2021?",
+    "respuesta": "EPMAPS",
+    "incorrecta1": "Cable & Wireless",
+    "incorrecta2": "Veolia",
+    "incorrecta3": "CNEL EP",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuáles fueron las mejoras para la Interactive Web Mapping?",
+    "respuesta": "Rápido e intuitivo",
+    "incorrecta1": "Poderoso y emocionante",
+    "incorrecta2": "Herramientas mejoradas y flujos de trabajo",
+    "incorrecta3": "Todas las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿A cuál de estos conceptos empezamos a llamar GeoAI?",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Machine Learning",
+    "incorrecta2": "Deep Learning",
+    "incorrecta3": "AI ( Artificial Inteligence)",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿Con qué herramienta podemos planificar, gestionar, recopilar y procesar imágenes?",
+    "respuesta": "Drone Mapping",
+    "incorrecta1": "Interactive Visual Analytics",
+    "incorrecta2": "Spatial Analysis",
+    "incorrecta3": "Reality Capture at scale",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Con cuál ArcGis podemos geodiseñar ciudades?",
+    "respuesta": "ArcGIS Urban",
+    "incorrecta1": "ArcGIS GeoPlanner",
+    "incorrecta2": "ArcGIS Indoors",
+    "incorrecta3": "ArcGIS Business Analyst",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Dónde trabaja la presentadora inicial del UC Central Live?",
+    "respuesta": "National Geographic",
+    "incorrecta1": "Esri Inc ",
+    "incorrecta2": "Esri Tailandia",
+    "incorrecta3": "Esri Ecuador",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Desde que país trasmitió la persona de Nespresso?",
+    "respuesta": "Suiza",
+    "incorrecta1": "Colombia",
+    "incorrecta2": "Francia",
+    "incorrecta3": "Estados Unidos",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "¿El ejemplo de realidad virtual y la modelación en 3D presentado en la plenaria los aplica en cual campo?",
+    "respuesta": "Planeación urbana",
+    "incorrecta1": "Defensa",
+    "incorrecta2": "Agricultura",
+    "incorrecta3": "Aviación",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Utilizando datos LiDAR se pueden detectar",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Árboles individuales",
+    "incorrecta2": "Huellas de edificios",
+    "incorrecta3": "Topografía",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Para qué se usa el SIG en seguridad y defensa?",
+    "respuesta": "Proteccion de la comunidad",
+    "incorrecta1": "para mediciones en campo",
+    "incorrecta2": "para control de vacunas",
+    "incorrecta3": "para medicion de predios",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cómo se llama la isla del demo que mostraron como ejemplo de cómo subir las imágenes a la nube?",
+    "respuesta": "Granada",
+    "incorrecta1": "Providencia ",
+    "incorrecta2": "Margarita",
+    "incorrecta3": "Barbados",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es la  herramienta donde se puede hacer un repositorio de imágenes en Story Maps?",
+    "respuesta": "Collection- Storymaps",
+    "incorrecta1": "ArcGIS online",
+    "incorrecta2": "Collector ",
+    "incorrecta3": "Expirience Builder",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Nombre del músico que tocó en los intermedios de la plenaria",
+    "respuesta": "Kevin Eubanks",
+    "incorrecta1": "John Legend",
+    "incorrecta2": "Ed Sheeran",
+    "incorrecta3": "Michel Jackson",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "En la mision Mars 2020 participo un robot, ¿cuál es el nombre?",
+    "respuesta": "Perseverance",
+    "incorrecta1": "C-3PO",
+    "incorrecta2": "R2D2",
+    "incorrecta3": "BB8",
+    "imagen": "",
+    "objectFit": "cover"
+}
+]
